@@ -11,4 +11,11 @@ class ProjectController
             'dir' => $dir,
         ]);
     }
+    public function travel(): void
+    {
+        $dir = env('APP_URL') . DS . 'projects' . DS . 'travel' . DS . 'index.html';
+        view('projects.travel', [
+            'dir' => $dir,
+        ]);
+    }
 }

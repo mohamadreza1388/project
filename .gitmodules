@@ -1,3 +1,6 @@
 [submodule "public/projects/accessory"]
 	path = public/projects/accessory
 	url = https://github.com/mohamadreza1388/accessories_decorative
+[submodule "public/projects/travel"]
+	path = public/projects/travel
+	url = https://github.com/mohamadreza1388/travel
