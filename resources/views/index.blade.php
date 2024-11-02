@@ -22,6 +22,11 @@
                      class="w-full object-cover rounded-[10px] overflow-hidden border" loading="lazy">
                 <h2 class="mt-2 text-center">سایت مزور و خرازی ماهدیس</h2>
             </a>
+            <a href="/coffee" class="bg-white shadow-1 p-4 rounded-[20px]">
+                <img src="{{ asset("assets/images/coffee.png") }}" alt=""
+                     class="w-full object-cover rounded-[10px] overflow-hidden border" loading="lazy">
+                <h2 class="mt-2 text-center">سایت فروش قهوه</h2>
+            </a>
         </div>
     </div>
 @endsection

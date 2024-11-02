@@ -25,4 +25,11 @@ class ProjectController
             'dir' => $dir,
         ]);
     }
+    public function coffee(): void
+    {
+        $dir = env('APP_URL') . DS . 'projects' . DS . 'coffee' . DS . 'index.html';
+        view('projects.coffee', [
+            'dir' => $dir,
+        ]);
+    }
 }

@@ -7,3 +7,6 @@
 [submodule "public/projects/mahdis"]
 	path = public/projects/mahdis
 	url = https://github.com/mohamadreza1388/mahdis-mezon
+[submodule "public/projects/coffee"]
+	path = public/projects/coffee
+	url = https://github.com/mohamadreza1388/coffee
