@@ -1,12 +1,12 @@
-[submodule "public/projects/accessory"]
-	path = public/projects/accessory
+[submodule "projects/accessory"]
+	path = projects/accessory
 	url = https://github.com/mohamadreza1388/accessories_decorative
-[submodule "public/projects/travel"]
-	path = public/projects/travel
+[submodule "projects/travel"]
+	path = projects/travel
 	url = https://github.com/mohamadreza1388/travel
-[submodule "public/projects/mahdis"]
-	path = public/projects/mahdis
+[submodule "projects/mahdis"]
+	path = projects/mahdis
 	url = https://github.com/mohamadreza1388/mahdis-mezon
-[submodule "public/projects/coffee"]
-	path = public/projects/coffee
+[submodule "projects/coffee"]
+	path = projects/coffee
 	url = https://github.com/mohamadreza1388/coffee

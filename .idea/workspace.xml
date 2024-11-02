@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85f5879c-0ad5-4d50-abd4-2186c400d921" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Class/Vite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/IndexController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/ProjectController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Helper/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/Seeders/UserSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/.idea/Decorative accessories store.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/.idea/Decorative accessories store.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/.idea/watcherTasks.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/css/responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/css/responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/section/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/section/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/accessory/section/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/projects/accessory/section/header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-extrablack.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-extrabold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan-thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/fonts/iranyekan/Iranyekan.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/accessor.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/accessory.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/coffee.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/coffee.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/mahdis.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/mahdis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/travel.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/travel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/accessory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/mahdis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/projects/travel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/errors/404.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projects/accessory.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projects/coffee.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projects/mahdis.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projects/travel.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/eftec/bladeone" />
+      <path value="$PROJECT_DIR$/vendor/flightphp/core" />
+      <path value="$PROJECT_DIR$/vendor/geekgroveofficial/php-smart-validator" />
+      <path value="$PROJECT_DIR$/vendor/flightphp/active-record" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oFUC0K4NA5t2OaMp4uCksrGZp9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/roidad_event_barnamenvis/project/resources/views/projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\roidad_event_barnamenvis\project\resources\views\projects" />
+      <recent name="C:\Users\mohamadreza\Desktop\lessons\public\assets\images" />
+      <recent name="C:\Users\mohamadreza\Desktop\lessons\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\roidad_event_barnamenvis\project" />
+      <recent name="D:\roidad_event_barnamenvis\project\resources\views\projects" />
+      <recent name="D:\roidad_event_barnamenvis\project\public\projects" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PS-242.20224.361" />
+        <option value="bundled-php-predefined-a98d8de5180a-d6acee4cb394-com.jetbrains.php.sharedIndexes-PS-242.20224.361" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85f5879c-0ad5-4d50-abd4-2186c400d921" name="Changes" comment="" />
+      <created>1730464685333</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730464685333</updated>
+      <workItem from="1730464686660" duration="6564000" />
+      <workItem from="1730535786686" duration="14205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
