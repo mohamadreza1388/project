@@ -15,6 +15,10 @@
                 <img src="{{ asset("assets/images/travel.png") }}" alt="" class="w-full object-cover rounded-[10px] overflow-hidden border" loading="lazy">
                 <h2 class="mt-2 text-center">سایت مختص سفر و مسافرت</h2>
             </a>
+            <a href="/mahdis" class="bg-white shadow-1 p-4 rounded-[20px]">
+                <img src="{{ asset("assets/images/mahdis.png") }}" alt="" class="w-full object-cover rounded-[10px] overflow-hidden border" loading="lazy">
+                <h2 class="mt-2 text-center">سایت مزور و خرازی ماهدیس</h2>
+            </a>
         </div>
     </div>
 @endsection

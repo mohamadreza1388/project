@@ -18,4 +18,11 @@ class ProjectController
             'dir' => $dir,
         ]);
     }
+    public function mahdis(): void
+    {
+        $dir = env('APP_URL') . DS . 'projects' . DS . 'mahdis' . DS . 'index.html';
+        view('projects.mahdis', [
+            'dir' => $dir,
+        ]);
+    }
 }

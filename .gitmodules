@@ -4,3 +4,6 @@
 [submodule "public/projects/travel"]
 	path = public/projects/travel
 	url = https://github.com/mohamadreza1388/travel
+[submodule "public/projects/mahdis"]
+	path = public/projects/mahdis
+	url = https://github.com/mohamadreza1388/mahdis-mezon
