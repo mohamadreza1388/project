@@ -6,14 +6,12 @@
     @font-face {
         font-family: "iran-yekan-normal";
         font-weight: 400;
-        src: url("../../public/assets/fonts/iranyekan/Iranyekan.ttf")
-        format("truetype");
+        src: url("../../public/assets/fonts/iranyekan/Iranyekan.ttf") format("truetype");
     }
     @font-face {
         font-family: "iran-yekan-bold";
         font-weight: 700;
-        src: url("../../public/assets/fonts/iranyekan/Iranyekan-bold.ttf")
-        format("truetype");
+        src: url("../../public/assets/fonts/iranyekan/Iranyekan-bold.ttf") format("truetype");
     }
 }
 
