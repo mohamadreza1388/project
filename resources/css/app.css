@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "iran-yekan-normal";
+        font-weight: 400;
+        src: url("../../public/assets/fonts/iranyekan/Iranyekan.ttf")
+        format("truetype");
+    }
+    @font-face {
+        font-family: "iran-yekan-bold";
+        font-weight: 700;
+        src: url("../../public/assets/fonts/iranyekan/Iranyekan-bold.ttf")
+        format("truetype");
+    }
+}
+
+* {
+    font-family: "iran-yekan-normal", sans-serif;
+    transition: all 200ms;
+}

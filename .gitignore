@@ -1,0 +1,11 @@
+.env
+./vendor
+vendor
+./.idea
+.idea
+./node_modules
+node_modules
+cache
+./cache
+.env
+public/build
